@@ -1,2 +1,2 @@
-1. first string
+1. modified string from master
 2. second string
