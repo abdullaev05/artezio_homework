@@ -1,2 +1,2 @@
 1. first string
-2. second string
+2. modified string
