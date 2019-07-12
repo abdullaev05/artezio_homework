@@ -1,0 +1,17 @@
+#wrapper{
+ margin: 200px auto;
+ width: 350px;
+ border: 1px solid #a8acb1;
+ padding: 10px;
+ border-radius: 4px;
+}
+button.btn.btn-outline-primary{
+ margin-top: 10px;
+}
+#x1, #x2, #result{
+ margin-top: 5px;
+ text-align: right;
+}
+#sumOfRange, #productOfRange{
+ margin-left: 15px;
+}
