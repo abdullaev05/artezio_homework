@@ -26,10 +26,8 @@ function matchCards(){
   else{
    unflipCards();
   }
-
  }
 cards.forEach(card => card.addEventListener('click', flipCard));
-
 
 function deleteCard(){
  console.log(this);setTimeout(() => {
